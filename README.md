@@ -20,7 +20,7 @@ Foco recente: Configuração de Firewalls e Servidores.
 ---
 
 ### 📩 Vamos nos conectar?
-- <a href="https://www.linkedin.com/in/matheus-tavares-gomes-ba43b4136/">
+<a href="https://www.linkedin.com/in/matheus-tavares-gomes-ba43b4136/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 
@@ -32,4 +32,4 @@ Foco recente: Configuração de Firewalls e Servidores.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </a>
 
-- **Localização:** Rio de Janeiro, Brasil 📍
+**Localização:** Rio de Janeiro, Brasil 📍
