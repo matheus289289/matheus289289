@@ -12,11 +12,12 @@ Sou um profissional focado em **Infraestrutura de Redes e Cibersegurança (Blue 
 
 ---
 
-### 🚀 Tecnologias em destaque
-![Python](https://img.shields.io)
-![Linux](https://img.shields.io)
-![Windows](https://img.shields.io)
-![Bash](https://img.shields.io)
+<div>
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</div>
 
 ---
 
