@@ -12,6 +12,7 @@ Sou um profissional focado em **Infraestrutura de Redes e Cibersegurança (Blue 
 
 ---
 
+### 🚀 Tecnologias em destaque
 <div>
   <img src="https://img.shields.io" />
   <img src="https://img.shields.io" />
