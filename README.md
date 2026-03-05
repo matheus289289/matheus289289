@@ -2,7 +2,13 @@
 
 ### 👨‍💻 Sobre mim
 Sou um profissional focado em **Infraestrutura de Redes e Cibersegurança (Blue Team)**. Tenho experiência com administração de sistemas Linux/Windows, monitoramento de ambientes e automação de tarefas utilizando Python.
+## 📞 Contato
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Tavares-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-tavares-gomes-ba43b4136/)
+
+[![Email](https://img.shields.io/badge/Email-contato-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheustavaresgomes1@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/matheus289289)
 ---
 
 ### 🛠️ Competências Técnicas
