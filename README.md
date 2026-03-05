@@ -15,10 +15,9 @@ Sou um profissional focado em **Infraestrutura de Redes e Cibersegurança (Blue 
 
 ---
 
-### 📊 Minhas Estatísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app" alt="Estatísticas do GitHub" />
-</p>
+📊 Status de Aprendizado:
+Atualmente estudando: Automação de Redes com Python
+Foco recente: Configuração de Firewalls e Servidores.
 
 ---
 
