@@ -5,15 +5,15 @@ Sou um profissional focado em **Infraestrutura de Redes e Cibersegurança (Blue 
 ## 📞 Contato
 
 <a href="https://www.linkedin.com/in/matheus-tavares-gomes-ba43b4136/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80"/>
 </a>
 
 <a href="mailto:matheustavaresgomes@gmail.com">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="80"/>
 </a>
 
 <a href="https://github.com/matheus289289">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80"/>
 </a>
 
 ### 🛠️ Competências Técnicas
