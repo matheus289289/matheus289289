@@ -5,7 +5,7 @@ Sou um profissional focado em **Infraestrutura de Redes e Cibersegurança (Blue 
 ## 📞 Contato
 
 <a href="https://www.linkedin.com/in/matheus-tavares-gomes-ba43b4136/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" wight="80"/>
 </a>
 
 <a href="mailto:matheustavaresgomes@gmail.com">
