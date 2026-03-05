@@ -5,20 +5,13 @@ Sou um profissional focado em **Infraestrutura de Redes e Cibersegurança (Blue 
 
 ---
 
-### 🛠 Competências e Tecnologias
-- **Redes & Segurança:** CCNA2, Pfsense, Cibersegurança (Blue Team).
-- **Monitoramento & Infra:** Zabbix, Linux (Servidores), Windows Server.
-- **Automação:** Python para redes e tarefas administrativas.
+### 🛠️ Competências Técnicas
 
----
-
-### 🚀 Tecnologias em destaque
-<div>
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-</div>
+*   **🌐 Redes:** CCNA2, Protocolos TCP/IP, Roteamento e Switching.
+*   **🛡️ Segurança:** Firewall Pfsense, Cibersegurança (Blue Team).
+*   **🖥️ Sistemas:** Administração de Linux (Ubuntu/Debian) e Windows Server.
+*   **📊 Monitoramento:** Implementação e gestão de Zabbix.
+*   **🐍 Automação:** Desenvolvimento de scripts em Python para automação de tarefas.
 
 ---
 
