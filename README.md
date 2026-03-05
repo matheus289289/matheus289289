@@ -14,12 +14,10 @@ Sou um profissional focado em **Infraestrutura de Redes e Cibersegurança (Blue 
 ---
 
 ### 🚀 Tecnologias em destaque
-<div align="left">
-  <img src="https://cdn.jsdelivr.net" height="40" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net" height="40" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net" height="40" alt="windows logo"  />
-  <img src="https://cdn.jsdelivr.net" height="40" alt="bash logo"  />
-</div>
+![Python](https://img.shields.io)
+![Linux](https://img.shields.io)
+![Windows](https://img.shields.io)
+![Bash](https://img.shields.io)
 
 ---
 
