@@ -2,19 +2,6 @@
 
 ### 👨‍💻 Sobre mim
 Sou um profissional focado em **Infraestrutura de Redes e Cibersegurança (Blue Team)**. Tenho experiência com administração de sistemas Linux/Windows, monitoramento de ambientes e automação de tarefas utilizando Python.
-## 📞 Contato
-
-<a href="https://www.linkedin.com/in/matheus-tavares-gomes-ba43b4136/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-</a>
-
-<a href="mailto:matheustavaresgomes@gmail.com">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
-</a>
-
-<a href="https://github.com/matheus289289">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</a>
 
 ### 🛠️ Competências Técnicas
 
@@ -33,5 +20,16 @@ Foco recente: Configuração de Firewalls e Servidores.
 ---
 
 ### 📩 Vamos nos conectar?
-- **LinkedIn:** [Matheus Tavares Gomes](https://www.linkedin.com/in/matheus-tavares-gomes-ba43b4136/)
+- <a href="https://www.linkedin.com/in/matheus-tavares-gomes-ba43b4136/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
+
+<a href="mailto:matheustavaresgomes@gmail.com">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+</a>
+
+<a href="https://github.com/matheus289289">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</a>
+
 - **Localização:** Rio de Janeiro, Brasil 📍
