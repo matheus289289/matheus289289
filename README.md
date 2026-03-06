@@ -1,17 +1,20 @@
 # Olá, eu sou o Matheus Tavares Gomes! 👋
 
-Profissional focado em **Infraestrutura de Redes, Administração de Sistemas e Cibersegurança (Blue Team)**.  
-Experiência com ambientes **Linux e Windows**, monitoramento de redes e **automação de tarefas utilizando Python**.
+**Profissional focado em Infraestrutura de TI, Administração de Sistemas e Cibersegurança (Blue Team).
+Experiência com ambientes Linux/Windows, monitoramento de infraestrutura com Zabbix,
+automação de tarefas com Python, suporte técnico N2 e diagnóstico de hardware.**
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Formação: **Análise e Desenvolvimento de Sistemas**
-- 📡 Área de atuação: **Infraestrutura de Redes**
-- 🛠 Experiência com **Linux, Windows Server e Monitoramento**
-- 🔐 Interesse em **Cibersegurança (Blue Team)**
-- 🤖 Automação de tarefas com **Python**
+-🌐 Redes: TCP/IP, Roteamento, Switching, CCNA2
+-🖥 Sistemas: Linux (Ubuntu/Debian), Windows Server, Active Directory
+-📊 Monitoramento: Zabbix
+-🔥 Segurança: pfSense, Cibersegurança (Blue Team)
+-🤖 Automação: Python para automação de tarefas
+-🔧 Hardware: Manutenção e diagnóstico de computadores
+-🛠 Suporte: Troubleshooting e suporte técnico N2
 
 ---
 
