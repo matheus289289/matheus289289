@@ -60,14 +60,6 @@ Atuar na área de **Infraestrutura de Redes, Administração de Sistemas Linux e
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheus289289&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus289289&layout=compact&theme=dark)
-
----
-
 ## 📫 Vamos nos conectar?
 
 <a href="https://www.linkedin.com/in/matheus-tavares-gomes-ba43b4136/">
