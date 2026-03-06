@@ -47,7 +47,8 @@ Tecnologias com as quais trabalho ou estudo:
 
 - **CCNA2**
 - **Análise e Desenvolvimento de Sistemas**
-- **Python
+- **Python**
+
 ---
 
 ## 📚 Atualmente estudando
