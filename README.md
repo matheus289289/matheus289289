@@ -9,11 +9,17 @@ automação de tarefas com Python, suporte técnico N2 e diagnóstico de hardwar
 ## 👨‍💻 Sobre mim
 
 -🌐 Redes: TCP/IP, Roteamento, Switching, CCNA2
+
 -🖥 Sistemas: Linux (Ubuntu/Debian), Windows Server, Active Directory
+
 -📊 Monitoramento: Zabbix
+
 -🔥 Segurança: pfSense, Cibersegurança (Blue Team)
+
 -🤖 Automação: Python para automação de tarefas
+
 -🔧 Hardware: Manutenção e diagnóstico de computadores
+
 -🛠 Suporte: Troubleshooting e suporte técnico N2
 
 ---
